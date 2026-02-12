@@ -23,13 +23,13 @@ struct ContentView: View {
                         .font(.system(size: 16, weight: .semibold))
                         .foregroundColor(.black)
                         .padding(.horizontal, 16)
-                        .padding(.top, 16)
+                       
                     
                     ForEach(items.indices, id: \.self) { _ in
                         CardView()
                     }
                 }
-                .padding(.bottom, 80)
+               
             }
             
             
@@ -75,6 +75,7 @@ struct CardView: View {
                             gradient: Gradient(colors: [
                                 Color(hex: "#225384"),
                                 Color(hex: "#499598"),
+                                Color(hex: "#499598"),
                                 Color(hex: "#215384")
                             ]),
                             startPoint: .leading,
@@ -98,7 +99,7 @@ struct CardView: View {
                     .overlay(
                         Image("WorkingImage")
                             .resizable()
-                            .scaledToFit()
+                            //.scaledToFit()
                             .frame(width: 212, height: 130)
                             .padding(.trailing, 1)
                             .padding(.bottom, -10),
