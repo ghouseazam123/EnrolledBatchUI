@@ -16,7 +16,7 @@
   <img src="https://github.com/user-attachments/assets/8b5ae7af-dfd4-40f6-80bc-5c63ebf751ca"
        width="500" />
 </p> -->
-<table align="center">
+<!-- <table align="center">
 <tr>
 <td>
 <img src="https://github.com/user-attachments/assets/d4377171-aa68-4d2d-9602-8e849a2fd0d2" width="300" />
@@ -24,8 +24,15 @@
 
 <td width="50"></td> <!-- spacing -->
 
-<td>
+<!-- <td>
 <img src="https://github.com/user-attachments/assets/8b5ae7af-dfd4-40f6-80bc-5c63ebf751ca" width="500" />
 </td>
 </tr>
-</table>
+</table> --> -->
+<!-- ![simulator_screenshot_22AB2B82-4B61-4872-AB40-F91E41A5589E](https://github.com/user-attachments/assets/51b87a80-ae7a-4458-8c10-69fb549593f0)
+![simulator_screenshot_E2EE9182-0046-48C8-8E91-C746CF7910F0](https://github.com/user-attachments/assets/41ed8808-dcfb-4c3a-b5de-c849771c090e) -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/41ed8808-dcfb-4c3a-b5de-c849771c090e" width="300" />
+  <img src="https://github.com/user-attachments/assets/51b87a80-ae7a-4458-8c10-69fb549593f0" width="300" />
+  
+</p>
